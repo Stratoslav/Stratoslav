@@ -1,4 +1,4 @@
-<h3  align="left">Frontend developer from Ukraine</h3>
+<h3  align="left">Full-stack developer from Ukraine</h3>
 <img width="800" align="rigth" src="https://i.gifer.com/origin/73/7357895fcc029c92917701a1334dc96b.gif" alt=""/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=stratoslav&label=Profile%20views&color=0e75b6&style=flat" alt="stratoslav" /> </p>
 
